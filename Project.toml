@@ -1,6 +1,6 @@
 name = "strace_jll"
 uuid = "1d56ff18-86b0-54eb-9ca6-1c12e018e922"
-version = "6.7.0+0"
+version = "6.7.0+1"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
