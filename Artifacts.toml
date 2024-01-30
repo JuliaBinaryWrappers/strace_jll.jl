@@ -1,0 +1,56 @@
+[[strace]]
+arch = "aarch64"
+git-tree-sha1 = "63234e586a65a5b5eac4ca03b881b9bca96b2a3f"
+libc = "glibc"
+os = "linux"
+
+    [[strace.download]]
+    sha256 = "d76e94c95c3a07afe84cedc0467aa400318296c39e5eabe4d1153524ebe2aa35"
+    url = "https://github.com/JuliaBinaryWrappers/strace_jll.jl/releases/download/strace-v6.7.0+0/strace.v6.7.0.aarch64-linux-gnu.tar.gz"
+[[strace]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "ec36dc2c9e94ad5f44c19806444f5fa73fe52d4d"
+libc = "glibc"
+os = "linux"
+
+    [[strace.download]]
+    sha256 = "28ba16a07ff29a888e08aa5d40a7947be5d852445adb2b4e74d13220b0bea04d"
+    url = "https://github.com/JuliaBinaryWrappers/strace_jll.jl/releases/download/strace-v6.7.0+0/strace.v6.7.0.armv6l-linux-gnueabihf.tar.gz"
+[[strace]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "c307ff434ae50ee729df2d04621c60a978716161"
+libc = "glibc"
+os = "linux"
+
+    [[strace.download]]
+    sha256 = "4e0d11f3d15f113eb54fd866785eb8fb0590afec69e00eba0407ab6a0d0859f6"
+    url = "https://github.com/JuliaBinaryWrappers/strace_jll.jl/releases/download/strace-v6.7.0+0/strace.v6.7.0.armv7l-linux-gnueabihf.tar.gz"
+[[strace]]
+arch = "i686"
+git-tree-sha1 = "6c042e9bc9b72ffaf9252c4e8195c83719d0c9ae"
+libc = "glibc"
+os = "linux"
+
+    [[strace.download]]
+    sha256 = "4438a0231b5bdcfba14a4f297735e04460737487cf6eca1df65276a4fe8be644"
+    url = "https://github.com/JuliaBinaryWrappers/strace_jll.jl/releases/download/strace-v6.7.0+0/strace.v6.7.0.i686-linux-gnu.tar.gz"
+[[strace]]
+arch = "powerpc64le"
+git-tree-sha1 = "b2ded578dfe57fad9c1e5ca7cedb2ca89440c618"
+libc = "glibc"
+os = "linux"
+
+    [[strace.download]]
+    sha256 = "425e3ccfab70c548fdc17f19f00fa66fabcb49ceb27e87e6cc8020d319db915d"
+    url = "https://github.com/JuliaBinaryWrappers/strace_jll.jl/releases/download/strace-v6.7.0+0/strace.v6.7.0.powerpc64le-linux-gnu.tar.gz"
+[[strace]]
+arch = "x86_64"
+git-tree-sha1 = "e02e392bf0cc786599001fea4795bbaf6536ac43"
+libc = "glibc"
+os = "linux"
+
+    [[strace.download]]
+    sha256 = "76bbb94580eb43782f102e77da352312ae56abdae8bca9f10669685b39812765"
+    url = "https://github.com/JuliaBinaryWrappers/strace_jll.jl/releases/download/strace-v6.7.0+0/strace.v6.7.0.x86_64-linux-gnu.tar.gz"
